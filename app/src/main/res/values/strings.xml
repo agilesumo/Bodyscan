@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Body Scan</string>
+
+
+
+
+    <string-array name="sex">
+        <item>Female</item>
+        <item>Male</item>
+
+    </string-array>
+
+    <string-array name="duration_options">
+        <item>2 secs</item>
+        <item>3 secs</item>
+        <item>4 secs</item>
+        <item>5 secs</item>
+        <item>6 secs</item>
+        <item>7 secs</item>
+        <item>8 secs</item>
+        <item>9 secs</item>
+        <item>10 secs</item>
+        <item>15 secs</item>
+        <item>20 secs</item>
+        <item>25 secs</item>
+        <item>30 secs</item>
+        <item>35 secs</item>
+        <item>40 secs</item>
+        <item>45 secs</item>
+        <item>50 secs</item>
+        <item>55 secs</item>
+        <item>60 secs</item>
+        <item>65 secs</item>
+        <item>70 secs</item>
+        <item>75 secs</item>
+        <item>80 secs</item>
+        <item>85 secs</item>
+        <item>90 secs</item>
+
+
+    </string-array>
+
+
+
+
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='Body Scan'
+include ':app'

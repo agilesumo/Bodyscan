@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:keepScreenOn="true"
+    android:orientation="vertical"
+    android:background="#e6e6ff">
+
+   <android.support.v7.widget.AppCompatTextView
+       android:id="@+id/instruction_text"
+       android:layout_height="wrap_content"
+       android:layout_width="wrap_content"
+       android:textSize="@dimen/text_size"
+       android:text="Focus on your right toes"
+       android:layout_margin="10dp"
+      />
+
+
+
+   <android.support.v7.widget.AppCompatImageView
+       android:id="@+id/currentBodyImage"
+       android:layout_height="wrap_content"
+       android:layout_width="wrap_content"
+
+       />
+
+</LinearLayout>
+
